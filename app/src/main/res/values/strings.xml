@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ticket Reserver</string>
+    <string name="appTitle">Ticket Vault</string>
+    <string name="hint">Enter # of tickets</string>
+    <string name="bttnName">FIND COST</string>
+    <string-array name="bands">
+        <item name="LR">Life Revealed</item>
+        <item name="ZZ">Zig Zag</item>
+        <item name="SS">Spatial Sense</item>
+    </string-array>
+</resources>
